@@ -1,17 +1,26 @@
-# ArkhamCookie's Ruby .gitignore
+# Arkham's Golang .gitignore
 # https://arkhamcookie.com
 
-# secrets
+## secrets
 .env*
-!env.defaults
 !.env.example
-!.env.test*
+!.env.default
 
-# package managers
-vendor/
-Gemlock.lock
+## golang
+*.test
+*.sum
 
-# configs
-.vscode/
-.idea/
+## cache
+.trash
+.DS_Store
+*.bak
+
+## output
+out/
+bin/
+crabot
+
+## configs
+.vscode
+.idea
 .vim
