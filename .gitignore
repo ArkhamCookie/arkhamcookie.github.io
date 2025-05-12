@@ -18,9 +18,12 @@
 ## output
 out/
 bin/
-crabot
+public/
 
 ## configs
 .vscode
 .idea
 .vim
+
+# Hugo
+.hugo_build.lock
