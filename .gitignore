@@ -1,0 +1,17 @@
+# ArkhamCookie's Ruby .gitignore
+# https://arkhamcookie.com
+
+# secrets
+.env*
+!env.defaults
+!.env.example
+!.env.test*
+
+# package managers
+vendor/
+Gemlock.lock
+
+# configs
+.vscode/
+.idea/
+.vim
