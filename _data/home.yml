@@ -1,0 +1,14 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: website
+    url: https://arkhamcookie.com
+
+footer_entries:
+  - title: GitHub
+    url: https://github.com/ArkhamCookie
+  - title: Mastodon
+    url: https://tilde.zone/@ArkhamCookie
+  - title: Ko-fi
+    url: https://ko-fi.com/arkhamcookie
