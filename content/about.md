@@ -5,4 +5,4 @@ draft = false
 layout = 'about'
 +++
 
-This is a site to show off all my projects on GitHub.
+This is a site to show off some of my projects on GitHub.
