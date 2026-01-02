@@ -10,7 +10,7 @@ theme = 'moonwalk-hugo'
 		pageRef = '/about'
 
 	[[menus.main]]
-		name = 'website'
+		name = 'my site'
 		url = 'https://arkhamcookie.com'
 
 	[[menus.main]]
