@@ -13,6 +13,10 @@ theme = 'moonwalk-hugo'
 		name = 'website'
 		url = 'https://arkhamcookie.com'
 
+	[[menus.main]]
+		name = 'my github'
+		url = 'https://github.com/ArkhamCookie'
+
 [params]
 	[params.author]
 		email = 'rss@mail.arkhamcookie.com' # RSS feed Email
