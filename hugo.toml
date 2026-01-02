@@ -19,4 +19,4 @@ theme = 'moonwalk-hugo'
 
 [params]
 	[params.author]
-		email = 'rss@mail.arkhamcookie.com' # RSS feed Email
+		email = 'github@mail.arkhamcookie.com' # RSS feed Email
