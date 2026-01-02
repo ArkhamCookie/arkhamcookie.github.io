@@ -3,3 +3,16 @@ languageCode = "en-us"
 title = "ArkhamCookie's github.io Site"
 
 theme = 'moonwalk-hugo'
+
+[menus]
+	[[menus.main]]
+		name = 'about'
+		pageRef = '/about'
+
+	[[menus.main]]
+		name = 'website'
+		url = 'https://arkhamcookie.com'
+
+[params]
+	[params.author]
+		email = 'rss@mail.arkhamcookie.com' # RSS feed Email
