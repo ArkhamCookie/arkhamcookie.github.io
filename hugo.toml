@@ -1,0 +1,22 @@
+baseURL = "https://arkhamcooke.github.io"
+languageCode = "en-us"
+title = "ArkhamCookie's github.io Site"
+
+theme = 'moonwalk-hugo'
+
+[menus]
+	[[menus.main]]
+		name = 'about'
+		pageRef = '/about'
+
+	[[menus.main]]
+		name = 'my site'
+		url = 'https://arkhamcookie.com'
+
+	[[menus.main]]
+		name = 'my github'
+		url = 'https://github.com/ArkhamCookie'
+
+[params]
+	[params.author]
+		email = 'github@mail.arkhamcookie.com' # RSS feed Email
